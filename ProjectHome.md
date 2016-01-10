@@ -1,0 +1,1 @@
+a open source information,develop by visual studio 2008 and Sql Server 2005.we will develop wms,scm,crm use the ois.
